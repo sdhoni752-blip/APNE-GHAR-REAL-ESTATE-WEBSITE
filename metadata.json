@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix APNA GHAR - Indian Real Estate Management System",
+  "description": "Indian real estate management platform for property managers, tenants, and administrators with property listings, rent agreements under Model Tenancy Act, and payments in Indian Rupees (₹).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
